@@ -3,6 +3,6 @@ app:
  description: Creation of LoginService Config Server
 
 db: 
- connection: dbconn-config-server
- host: host
- port: 1433
+ connection: dbconn-config-server-commit
+ host: host-confighosst
+ port: 1445
