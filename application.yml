@@ -1,0 +1,8 @@
+app: 
+ name: LoginService
+ description: Creation of LoginService
+
+db: 
+ connection: dbconn-config
+ host: host
+ port: 1433
