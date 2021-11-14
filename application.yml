@@ -1,6 +1,6 @@
 app: 
  name: LoginService
- description: Creation of LoginService
+ description: Creation of LoginService Config Server
 
 db: 
  connection: dbconn-config
